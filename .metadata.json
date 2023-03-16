@@ -1,0 +1,10 @@
+[
+  {
+    "package": "shinysurveys",
+    "oncran": true
+  },
+  {
+    "package": "tremendousr",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "shinysurveys"]
+	path = shinysurveys
+	url = https://github.com/jdtrat/shinysurveys
+	shallow = true
+	registered = true
+[submodule "tremendousr"]
+	path = tremendousr
+	url = https://github.com/jdtrat/tremendousr
+	shallow = true
+	registered = true
