@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "shinysurveys"]
-	path = shinysurveys
-	url = https://github.com/jdtrat/shinysurveys
 [submodule "tremendousr"]
 	path = tremendousr
 	url = https://github.com/jdtrat/tremendousr
